@@ -28,6 +28,7 @@ public class VentanaSuma extends JFrame implements ActionListener {
 
         etiqueta1 = new JLabel();
         etiqueta1.setText("Ingrese un Numero");
+        System.out.println("asasas");
         numero1 = new JTextField();
         etiqueta2 = new JLabel("Ingrese un Numero");
         numero2 = new JTextField();
